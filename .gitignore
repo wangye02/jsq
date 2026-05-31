@@ -1,0 +1,29 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.navigation/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore (keep our debug one)
+# app/debug.keystore -- kept intentionally
+
+
