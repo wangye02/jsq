@@ -3,8 +3,8 @@
 build/
 */build/
 local.properties
-*.apk
 *.ap_
+build/**/*.apk
 *.dex
 *.class
 bin/
